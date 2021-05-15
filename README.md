@@ -14,7 +14,6 @@ Use the arrow up key to move the turtle to the other side of the street without 
 
 ## Usage example
 
-## Controls
 
 ## Dependencies:
 
