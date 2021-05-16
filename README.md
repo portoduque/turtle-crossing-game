@@ -13,6 +13,7 @@ Use the arrow up key to move the turtle to the other side of the street without 
 * [Pyhton](https://www.python.org/downloads/)
 
 ## Usage example
+![usage_example](https://user-images.githubusercontent.com/37813839/118402665-444da200-b641-11eb-9f5f-e6387c0d72d0.gif)
 
 
 ## Dependencies:
